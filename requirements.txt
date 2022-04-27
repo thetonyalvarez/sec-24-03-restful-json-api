@@ -1,5 +1,7 @@
-flask
-flask-sqlalchemy
+Flask
+Flask-DebugToolbar
+Flask-SQLAlchemy
+Flask-WTF
 ipython
 psycopg2-binary
 sqlalchemy
